@@ -9,3 +9,6 @@ data = pd.DataFrame({
 print("Dataset preview:")
 print(data)
 print("File Updated in VS Code")
+
+def greet():
+    print("Hello from experiment-1 branch!")
